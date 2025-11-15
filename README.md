@@ -270,11 +270,3 @@ Insurance support automation
 Policy comparison tools
 
 Compliance assurance systems
-
-📎 Repository Structure (Suggested)
-📁 Insurance-AI-RAG
- ├── README.md
- ├── /policy-docs
- ├── main.ipynb
- ├── gpt_cache/
- └── requirements.txt
